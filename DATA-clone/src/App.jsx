@@ -9,7 +9,7 @@ function App() {
    <div className="wrapper">
     <div className="container">
         
-        <Tabs>ddwaw
+        <Tabs variant='solid-rounded' colorScheme='yellow'>
   <TabList>
     <Tab>Barcha</Tab>
     <Tab>Foydali ma‘lumotlar</Tab>
@@ -42,6 +42,10 @@ qulayliklar yaratganmiz. Bilimni esa o‘z kasbining
 ustalari beradi.</p>
 
       </div>
+</div>
+
+<div className="admin-block">
+    
 </div>
     </TabPanel>
     <TabPanel>
