@@ -9,7 +9,7 @@ function App() {
    <div className="wrapper">
     <div className="container">
         
-        <Tabs>
+        <Tabs>ddwaw
   <TabList>
     <Tab>Barcha</Tab>
     <Tab>Foydali ma‘lumotlar</Tab>
